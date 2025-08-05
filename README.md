@@ -1,9 +1,5 @@
 ## Perimeter-of-a-Rectangle
 
----
-
-## Rectangle Perimeter Calculator
-
 This is a simple Python script to calculate the **perimeter of a rectangle**. The user is prompted to input the lengths of two adjacent sides (side **a** and side **b**), and the script computes and displays the perimeter using the formula :
 
 Perimeter = 2 × (a + b)
