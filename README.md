@@ -48,7 +48,7 @@ python rectangle_perimeter.py
 
 ```bash
 
-rectangle_perimeter.py    # Main script
+Finding Perimeter.py    # Main script
 README.md                 # Project documentation
 
 ```
